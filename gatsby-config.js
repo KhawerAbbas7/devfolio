@@ -12,7 +12,7 @@ module.exports = {
     //author: `@rfitzio`,
     // Optional: Github account URL
     github: `https://github.com/KhawerAbbas7`,
-    email: `akhawer875@gmail.com`
+    email: `akhawer875@gmail.com`,
     // Optional: LinkedIn account URL
     //linkedin: `https://github.com/RyanFitzgerald/devfolio`,
     // Content of the About Me section
