@@ -5,71 +5,66 @@ module.exports = {
     // Your Name
     name: 'Khawer Abbas',
     // Main Site Title
-    title: `Ryan Fitzgerald | Full-Stack Developer`,
+    title: `Khawer Abbas | Backend Dev`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    description: `"Self-taught" coder from Pakistan, expert in pointless projects, now wants "serious" work. Prepare for chaos.`,
     // Optional: Twitter account handle
     author: `@rfitzio`,
     // Optional: Github account URL
-    github: `https://github.com/RyanFitzgerald`,
+    github: `https://github.com/KhawerAbbas7`,
     // Optional: LinkedIn account URL
-    linkedin: `https://github.com/RyanFitzgerald/devfolio`,
+    //linkedin: `https://github.com/RyanFitzgerald/devfolio`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `Khawer Abbas, DGK-bred, Rawalpindi-based. I'm a boredom-battling enthusiast who stumbled into coding through sheer curiosity. Java was my first playground, leading to some unexpected articles. Now? I'm hooked on building Discord bots – turning 'what if?' into 'check this out!' If you're looking for someone who tackles problems with a dash of 'why not?' and a whole lot of code, let's connect.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Devfolio',
+        name: 'Crichub',
         description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'A discord bot which allows players to play 11v11 cricket games.',
+        link: 'https://top.gg/bot/1181911831258877962',
       },
       {
-        name: 'ExtensionKit',
+        name: 'Aucbot',
         description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://extensionkit.io/?ref=devfolio',
+          'Unfortunately an abandoned project but was a useful one as long as it lasted, It allowed users to conduct auctions like back in the day they did for bla...',
+        link: 'https://top.gg/bot/1030022687969513482',
       },
       {
-        name: 'Another Cool Project',
+        name: 'Net Run Rate Scenarios Calculator',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'A blessing for Royal Challengers Bangalore and Pakistan Cricket Team\'s fans, they can now calculate in how many they have to chase a particular target in order to reach Airport ✈️`,
+        link: 'https://netrunrate.github.io',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Acme Corp',
-        description: 'Full-Stack Developer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Sports Side',
+        description: 'Cheif Operating Officer, February 2022 - March 2024',
+        link: 'https://thesportsside.com/',
       },
       {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
-      {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
+        name: 'Green Team',
+        description: 'Events Head, March 2022- February 2023',
+        link: 'https://greenteam1992.com',
+      }
     ],
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'Python, JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
       },
       {
         name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
+        description: 'Sqlite, PostreSQL, MySQL',
       },
       {
         name: 'Other',
         description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Content Creation, Copy writing, Article writing',
       },
     ],
   },
