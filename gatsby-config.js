@@ -33,7 +33,7 @@ module.exports = {
       {
         name: 'Net Run Rate Scenarios Calculator',
         description:
-          'A blessing for Royal Challengers Bangalore and Pakistan Cricket Team\'s fans, they can now calculate in how many they have to chase a particular target in order to reach Airport ✈️`,
+          `A blessing for Royal Challengers Bangalore and Pakistan Cricket Team\'s fans, they can now calculate in how many they have to chase a particular target in order to reach Airport ✈️`,
         link: 'https://netrunrate.github.io',
       },
     ],
