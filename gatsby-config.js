@@ -16,7 +16,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     //linkedin: `https://github.com/RyanFitzgerald/devfolio`,
     // Content of the About Me section
-    about: `Khawer Abbas, DGK-bred, Rawalpindi-based. I'm a boredom-battling enthusiast who stumbled into coding through sheer curiosity. Java was my first playground, leading to some unexpected articles. Now? I'm hooked on building Discord bots – turning 'what if?' into 'check this out!' If you're looking for someone who tackles problems with a dash of 'why not?' and a whole lot of code, let's connect.`,
+    about: `I'm a boredom-battling enthusiast who stumbled into coding through sheer curiosity. Java was my first playground, leading to some unexpected articles. Now? I'm hooked on building Discord bots – turning 'what if?' into 'check this out!' If you're looking for someone who tackles problems with a dash of 'why not?' and a whole lot of code, let's connect.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
