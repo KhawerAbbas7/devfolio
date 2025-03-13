@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://monumental-chimera-b1ace3.netlify.app/`,
+    siteUrl: `https://khawi.vercel.app/`,
     // Your Name
-    name: 'Ryan Fitzgerald',
+    name: 'Khawer Abbas',
     // Main Site Title
     title: `Ryan Fitzgerald | Full-Stack Developer`,
     // Description that goes under your name in main bio
