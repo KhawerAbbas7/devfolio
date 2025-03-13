@@ -9,9 +9,10 @@ module.exports = {
     // Description that goes under your name in main bio
     description: `"Self-taught" coder from Pakistan, expert in pointless projects, now wants "serious" work. Prepare for chaos.`,
     // Optional: Twitter account handle
-    author: `@rfitzio`,
+    //author: `@rfitzio`,
     // Optional: Github account URL
     github: `https://github.com/KhawerAbbas7`,
+    email: `akhawer875@gmail.com`
     // Optional: LinkedIn account URL
     //linkedin: `https://github.com/RyanFitzgerald/devfolio`,
     // Content of the About Me section
