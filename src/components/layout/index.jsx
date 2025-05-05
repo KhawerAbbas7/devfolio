@@ -1,22 +1,17 @@
 import React from 'react';
 import ThemeToggle from './theme-toggle';
 
-
 const classes = {
   wrapper: 'p-8 relative max-w-screen-xl xs:p-24',
   outerWrapper: 'relative min-h-screen bg-white dark:bg-gray-900 text-gray-900 dark:text-white',
   svg: 'hidden fixed transform right-0 top-5 z-0 xl:block',
 };
 
-
-
 const Layout = ({ children }) => {
   return (
     <div className={classes.outerWrapper}>
-    <ThemeToggle />
-    {/* SVG + content */}
-  </div>
-    <div className={classes.outerWrapper}>
+      <ThemeToggle />
+      {/* SVG + content */}
       <svg
         className={classes.svg}
         width="404"
