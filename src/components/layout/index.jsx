@@ -1,10 +1,11 @@
 import React from 'react';
-
 const classes = {
   wrapper: 'p-8 relative max-w-screen-xl xs:p-24',
-  outerWrapper: 'relative',
+  outerWrapper: 'relative min-h-screen bg-white dark:bg-gray-900 text-gray-900 dark:text-white',
   svg: 'hidden fixed transform right-0 top-5 z-0 xl:block',
 };
+
+
 
 const Layout = ({ children }) => {
   return (
