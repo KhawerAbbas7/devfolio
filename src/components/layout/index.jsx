@@ -1,5 +1,5 @@
 import React from 'react';
-import ThemeToggle from './theme-toggle';
+import ThemeToggle from './ThemeToggle';
 
 const classes = {
   wrapper: 'p-8 relative max-w-screen-xl xs:p-24',
